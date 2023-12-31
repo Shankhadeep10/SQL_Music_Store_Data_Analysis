@@ -1,5 +1,7 @@
 # SQL_Music_Store_Data_Analysis
-Objective:
+------------------------------------
+# Objective:
+--------------------------------------
 
 In this project I can analysis the dataset with SQL and its helps to the store understand inside its business growth.
 
